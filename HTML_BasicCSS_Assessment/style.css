@@ -1,4 +1,6 @@
-body {background-color: powderblue;}
+body {
+  background-color: powderblue;
+}
   .FDM {color: white;
   font-size: 17px;
   font-family: Arial, Helvetica, sans-serif; 
@@ -36,4 +38,3 @@ body {background-color: powderblue;}
   border: 2px solid #FFFFFF;
   padding: 3px;
 }
-
